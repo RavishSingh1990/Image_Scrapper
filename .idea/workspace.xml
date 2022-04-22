@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ed1dae4-8db4-414c-a8d6-68d939653004" name="Default Changelist" comment="" />
+    <list default="true" id="4ed1dae4-8db4-414c-a8d6-68d939653004" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Ravish Singh &lt;ravishsingh1990@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="288wQwyIqSkjXdjq3Aj4eWALBmx" />
@@ -67,13 +74,29 @@
       <option name="presentableId" value="Default" />
       <updated>1650611507426</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added Requirements.txt file">
+      <created>1650618024251</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1650618024251</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Requirements.txt file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Requirements.txt file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650612289349">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1650612289349" />
+    <state x="309" y="0" key="CommitChangelistDialog2" timestamp="1650618020897">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="309" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1650618020897" />
     <state x="421" y="85" key="FileChooserDialogImpl" timestamp="1650611572625">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
